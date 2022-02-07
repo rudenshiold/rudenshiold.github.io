@@ -1,4 +1,4 @@
-# Doing Digital Things in Academia: a Personal DH Autobiography
+# Doing digital things in academia: a DH autobiography
 ## B.A. @ Mary Washington
 As I expect is the case with most people involved with “digital humanities” in some way – my introduction to the field was less “I want to do digital humanities,” and more “oh wow, turns out I’ve been doing digital humanities.” For me, this point came during my second semester of undergraduate education at the University of Mary Washington, at which point my partner at the time mentioned that my interests in both English and Political Science converged with his work in “digital studies” quite a lot. My focus on online political media and hypertext fiction, had brought me into the orbit of something I would soon fall deeply in love with. While that relationship ended soon thereafter, as a result of unrelated events, my interest in what was at UMW called “digital studies” continued on. 
 
