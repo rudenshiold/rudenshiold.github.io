@@ -1,4 +1,4 @@
-![datamosh](/catgif.gif)
+![datamosh](catgif.gif)
 ***
 # Doing digital things in academia: a DH autobiography
 ***
