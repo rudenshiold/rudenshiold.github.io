@@ -1,3 +1,5 @@
+![datamosh](/catgif.gif)
+***
 # Doing digital things in academia: a DH autobiography
 ***
 ## B.A. @ Mary Washington
